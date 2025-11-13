@@ -1,0 +1,13 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Fabrice TIERCELIN",
+	"contact" : "https://github.com/Fabrice-TIERCELIN",
+	"language" : "bulgarian",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-bulgarian-ai/maps.json",
+		"config/vcmi-bulgarian-ai/chronicles.json"
+	]
+}
