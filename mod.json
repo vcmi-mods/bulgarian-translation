@@ -26,6 +26,7 @@
 	"translations" : [
 		"config/vcmi-bulgarian/game.json",
 		"config/vcmi-bulgarian/maps.json",
+		"config/vcmi-bulgarian/chronicles.json",
 		"config/vcmi-bulgarian/campaigns.json"
 	]
 }
